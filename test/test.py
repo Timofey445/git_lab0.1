@@ -1,2 +1,2 @@
-print("hello world")
-print('ki-ki-ki ra sweg')
+print("привет, люди")
+print('Ден Рикьярдо')
